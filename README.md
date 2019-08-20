@@ -1,11 +1,11 @@
-# **Take a Partial Screen Capture Using Windows Snipping Tool**
+# **Rotate and Resize a Picture with PicResize**
 
 ## Introduction
-*Snipping Tool* is a free application on Windows that allows users to capture part of their screen. This document is a guide for using *Snipping Tool* to take a partial screen capture.
+PicResize is an application that allows you to make changes to photos. This video's goal is to guide users through the process of rotating and resizing a photo.
 
 ## Usage
 
-Follow the steps in the document and refer to the screen shots to learn how to use *Snipping Tool*.
+Watch the video or read the video script to learn how to rotate and resize a picture with PicResize.
 
 ## Future Applications
-As *Snipping Tool* becomes more advanced in future updates, this guide can easily be updated with the latest features.
+The video script template can be used to create new scripts for other applications to help users complete a task.
